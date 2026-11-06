@@ -298,8 +298,8 @@ async function translateText() {
 称代词、常用词按标准释义翻译，不要当成语气词
 结果，不要添加任何解释、说明或前后缀
 
-tName}原文：
-Text}
+${dialectName}原文：
+${sourceText}
 
 英语翻译：`;
 
